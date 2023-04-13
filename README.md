@@ -23,4 +23,7 @@ Once sbt and Spark are installed, you can run the project by executing the follo
 sbt compile
 sbt run
 ```
+## Remained Issues
 
+- There is one record in `impressions.json` which doesn't comply the schema, I had to remove it because with that record the result is empty.
+- The output is not an array of jsons.
