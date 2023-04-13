@@ -1,0 +1,6 @@
+.metals
+docker-compose.yaml
+Dockerfile
+target
+dumps
+project
